@@ -1,4 +1,4 @@
-<?php
+$contents = Storage::get('file.jpg');<?php
 
 namespace Tests\Feature; return 
 
