@@ -1,4 +1,4 @@
-restore## Instrucciones de instalación
+restorecloud/translateto English## Instrucciones de instalación
 
 ## Requerimientos
 
