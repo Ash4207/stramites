@@ -1,4 +1,4 @@
-restorecloud/translateto English## Instrucciones de instalación
+36570abc5bab35e6a27cf776a49924cf09f10a7f## Instrucciones de instalación
 
 ## Requerimientos
 
